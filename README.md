@@ -163,6 +163,7 @@ University/college research in cybersecurity & AI.
 Internship projects in ML & network defense.
 
 ### 📬 Contact
-Maintainer: Shabreen Taj
+Maintainer: Sachin Kumar 
 
 🔗 GitHub: https://github.com/taj-shabreen
+
