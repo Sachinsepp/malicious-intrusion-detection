@@ -165,5 +165,5 @@ Internship projects in ML & network defense.
 ### 📬 Contact
 Maintainer: Sachin Kumar 
 
-🔗 GitHub: https://github.com/taj-shabreen
+🔗 GitHub: https://github.com/Sachinsepp
 
